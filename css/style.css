@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("https://raw.githubusercontent.com/lukeify/spacex-reddit-css/master/assets/banners/banner10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 80%;
+}
+
+.flight-img {
+  padding: 0.5em;
+}
